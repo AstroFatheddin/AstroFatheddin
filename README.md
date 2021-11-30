@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AstroFatheddin
 - 👀 I’m interested in Astrophysics/Astronomy
-- 🌱 I’m currently learning Computational Methods to Solve EOS of Neutron Stars
+- 🌱 I’m currently developing a python based simulation package for Gravitational Lensing
 - 💞️ I’m looking to collaborate on Astrophysics projects
 - 📫 How to reach me Fathoaldin@ph.iut.ac.ir
 
