@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AstroFatheddin
-- 👀 I’m interested in Astrophysics/Astronomy
-- 🌱 I’m currently developing a python based simulation package for Gravitational Lensing
+- 👀 I’m interested in Astrophysics/Astronomy (Specifically: Observational Cosmology/Astrophysics, Astrostatistics/Data Science and Gravitational Lensing/Microlensing )
 - 📫 How to reach me Fathoaldin@ph.iut.ac.ir
 
 <!---
